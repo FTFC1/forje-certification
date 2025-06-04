@@ -22,7 +22,7 @@ Nigeria's First Professional Retail Certification System
 
 4. **Your site will be live at:**
    ```
-   https://FTFC1.github.io/forje-certification
+   https://[your-username].github.io/forje-certification
    ```
 
 ## Features
@@ -53,4 +53,4 @@ Nigeria's First Professional Retail Certification System
 
 📧 commercial@forje.org  
 📱 +234 908 328 2287  
-📍 Lagos, Nigeria
+📍 Lagos, Nigeria 
